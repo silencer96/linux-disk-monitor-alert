@@ -1,0 +1,5 @@
+set v15-compat
+set mta="smtp://sakthisanjai9600%40gmail.com:zesuhddygmzzocte@smtp.gmail.com:587"
+set from="sakthisanjai9600@gmail.com (Disk Monitor)"
+set smtp-use-starttls
+set record=/dev/null
