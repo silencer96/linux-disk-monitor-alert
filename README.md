@@ -21,7 +21,7 @@ This is a Bash script that monitors disk usage on a Linux system and sends an em
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-disk-monitor-alert.git
+git clone https://github.com/silencer96/linux-disk-monitor-alert.git
 cd linux-disk-monitor-alert
 
 ### 2. Configure .mailrc
